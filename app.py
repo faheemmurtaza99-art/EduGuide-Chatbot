@@ -40,7 +40,7 @@ RESPONSE RULES:
 8. Keep answers focused and reasonably concise.
 """
 
-MODEL_NAME = "llama-3.3-70b-versatile"
+MODEL_NAME = "openai/gpt-oss-120b"
 TEMPERATURE = 0.4
 MAX_TOKENS = 700
 
